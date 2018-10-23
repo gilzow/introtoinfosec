@@ -1,13 +1,7 @@
-# The What and Why of WordPress Security
+# An Introduction to Information Security and Why You Should Care
 
-I'm sure you've read at least one "Guide to WordPress Security" or "Top Ten Tips to Keep 
-Your WordPress Site Safe" articles. Maybe you even implemented a few, or all, of the 
-suggestions.  But did you understand why certain items were suggested, or what exactly 
-they accomplished?  In this session will discuss the most common security suggestions for 
-WordPress:
-
-* Why they are suggested
-* What they accomplish
-* When you should apply them (and when you shouldn't)
-* How they tie back to core security principles
-* How we can augment these suggestions to build an even more robust security posture
+A staggering 7.89 Billion records were leaked online in 2017. Securing our web apps and 
+sites is no longer just important; it’s *crucial*. But Information Security (InfoSec) is 
+dense, and can be overwhelming.  In this super fast talk, we’ll discuss core InfoSec 
+principles and concepts to jumpstart you on your way to understanding how you can apply 
+these concepts to your own digital assets.
